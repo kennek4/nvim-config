@@ -7,4 +7,4 @@ foo.*
 *.log
 data
 
-./lua/plugins/example.lua
+/lua/plugins/example.lua
